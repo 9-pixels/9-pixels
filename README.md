@@ -7,11 +7,11 @@ Building real tools for real problems — no fluff.
 
 - **Languages:** Python, C, SQL
 - **Systems:** NixOS, Linux
-- **Tools:** Git, docker, codium CLI development
+- **Tools:** Git, docker, codium, CLI development
 
 ## Goals
 
-<!-- your goals here -->
+be a good developer without **ai**.
 
 ## What I'm building
 
