@@ -11,7 +11,7 @@ Building real tools for real problems — no fluff.
 
 ## Goals
 
-be a good developer without **ai**.
+be a good developer without # ai.
 
 ## What I'm building
 
