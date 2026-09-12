@@ -11,8 +11,8 @@ Building real tools for real problems — no fluff.
 
 ## Goals
 
-be a good developer without **AI**.
-Learn Rust because "rebuild it with rust"
+- be a good developer without **AI**.
+- Learn Rust because "rebuild it with rust".
 
 ## What I'm building
 
