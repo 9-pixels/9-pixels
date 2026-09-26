@@ -16,6 +16,6 @@ Building real tools for real problems — no fluff.
 
 ## What I'm building
 
-Currently working on [`nx`](https://github.com/9-pixels/nix-install) —
+Currently working on [`nx`](https://github.com/9-pixels/nxXtend) —
 an interactive NixOS package manager that searches stable, unstable,
 and flakes, and writes to your system files automatically.
