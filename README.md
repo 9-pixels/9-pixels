@@ -1,13 +1,13 @@
 # 9-pixels
 
-Independent opensource software developer based in ****, ******
+Independent open-source software developer based in ****, ******
 Building real tools for real problems — no fluff.
 
 ## Skills
 
 - **Languages:** Python, C, SQL
 - **Systems:** NixOS, Linux
-- **Tools:** Git, docker, codium, CLI development
+- **Tools:** Git, docker, neovim (finally), CLI development
 
 ## Goals
 
@@ -16,6 +16,4 @@ Building real tools for real problems — no fluff.
 
 ## What I'm building
 
-Currently working on [`nxXtend`](https://github.com/9-pixels/nxXtend) —
-an interactive NixOS package manager that searches stable, unstable,
-and flakes, and writes to your system files automatically.
+A secret project. It won't be revealed for a long time, and it's not closed-source btw.
