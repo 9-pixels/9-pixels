@@ -1,6 +1,7 @@
 # 9-pixels
 
 Independent open-source software developer based in ****, ******
+
 Building real tools for real problems — no fluff.
 
 ## Skills
