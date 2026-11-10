@@ -6,14 +6,15 @@ Building real tools for real problems — no fluff.
 
 ## Skills
 
-- **Languages:** Python, C, SQL
-- **Systems:** NixOS, Linux
-- **Tools:** Git, docker, neovim (finally), CLI development
+- **Languages:** Python, C, SQL, Rust
+- **Systems:** NixOS, linux 
+- **Tools:** Git, docker, neovim , CLI development, ghostty
 
 ## Goals
 
 - be a good developer without **AI**.
 - learn Rust because "rebuild it with rust".
+- Privacy
 
 ## What I'm building
 
